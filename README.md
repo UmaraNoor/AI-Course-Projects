@@ -1,2 +1,1 @@
-# AI-Course-Projects
-A collection of AI projects developed by students of BSSE F21 in the Artificial Intelligence course taught by Dr. Umara Noor at Department of Software Engineering, International Islamic University, Islamabad, Pakistan.
+[AI-Powered Requirements Extraction](https://github.com/irsashoukat/AI-Powered-Requirements-Extraction)
