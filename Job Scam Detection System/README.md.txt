@@ -1,0 +1,4 @@
+Group Members:
+(Muskaan Malik(4221)-Rubab Afzal(4229))-Section A
+About Project:
+This project is a smart system that helps people identify whether a job posting is real or a scam. It uses machine learning to analyze the job details that a user enters — such as the job title, description, company profile, and other information such as requirements benefits and checks for details whether company logo, screening questions and telecommuting is present in the job posting or not. The system checks for warning signs like missing company logos, vague descriptions, or common scam phrases like “quick money” or “no experience needed.” After analyzing the input, it tells the user if the job is likely legitimate or a scam, and explains the reasons behind the prediction. This tool is designed to protect users from online job fraud in a simple and easy-to-use way.
